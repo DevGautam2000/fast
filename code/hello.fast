@@ -1,0 +1,20 @@
+imp main
+
+obj runner{
+
+    fun main(){
+
+        var a = 10
+    	println("Hello a")
+
+    	if(a>9)
+    	    print("gautam yes it is 10")
+
+        for(i in listOf(1 to 10).indices)
+            printf("the index is: [i] \n")
+
+    }
+}
+
+
+main() -> runner.main()
