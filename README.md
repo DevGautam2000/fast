@@ -3,7 +3,7 @@
 #### A simple lexer in cpp
 
 
--- reminaing 
+-- remaining 
 
 - parser
 - compiler
