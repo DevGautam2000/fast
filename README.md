@@ -1,6 +1,6 @@
 # fast
 
-###### A simple lexer in cpp
+#### A simple lexer in cpp
 
 
 -- reminaing 
